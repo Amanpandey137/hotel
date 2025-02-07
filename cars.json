@@ -1,0 +1,22 @@
+[
+    { "id": 1, "name": "Tesla Model S", "location": "California, USA", "rating": 4.9, "price": "$90,000", "image": "https://source.unsplash.com/400x300/?tesla-model-s" },
+    { "id": 2, "name": "Ford Mustang", "location": "Michigan, USA", "rating": 4.8, "price": "$70,000", "image": "https://source.unsplash.com/400x300/?ford-mustang" },
+    { "id": 3, "name": "BMW i8", "location": "Bavaria, Germany", "rating": 4.9, "price": "$150,000", "image": "https://source.unsplash.com/400x300/?bmw-i8" },
+    { "id": 4, "name": "Audi R8", "location": "Ingolstadt, Germany", "rating": 4.8, "price": "$170,000", "image": "https://source.unsplash.com/400x300/?audi-r8" },
+    { "id": 5, "name": "Lamborghini Aventador", "location": "Sant'Agata Bolognese, Italy", "rating": 5.0, "price": "$400,000", "image": "https://source.unsplash.com/400x300/?lamborghini-aventador" },
+    { "id": 6, "name": "Ferrari 488", "location": "Maranello, Italy", "rating": 4.9, "price": "$300,000", "image": "https://source.unsplash.com/400x300/?ferrari-488" },
+    { "id": 7, "name": "Porsche 911", "location": "Stuttgart, Germany", "rating": 4.8, "price": "$150,000", "image": "https://source.unsplash.com/400x300/?porsche-911" },
+    { "id": 8, "name": "Chevrolet Camaro", "location": "Detroit, USA", "rating": 4.7, "price": "$60,000", "image": "https://source.unsplash.com/400x300/?chevrolet-camaro" },
+    { "id": 9, "name": "Ford F-150", "location": "Dearborn, USA", "rating": 4.6, "price": "$55,000", "image": "https://source.unsplash.com/400x300/?ford-f150" },
+    { "id": 10, "name": "Jeep Wrangler", "location": "Ohio, USA", "rating": 4.8, "price": "$50,000", "image": "https://source.unsplash.com/400x300/?jeep-wrangler" },
+    { "id": 11, "name": "Mercedes-Benz G-Class", "location": "Stuttgart, Germany", "rating": 4.9, "price": "$130,000", "image": "https://source.unsplash.com/400x300/?mercedes-gclass" },
+    { "id": 12, "name": "Honda Civic", "location": "Tokyo, Japan", "rating": 4.6, "price": "$25,000", "image": "https://source.unsplash.com/400x300/?honda-civic" },
+    { "id": 13, "name": "Toyota Prius", "location": "Aichi, Japan", "rating": 4.7, "price": "$30,000", "image": "https://source.unsplash.com/400x300/?toyota-prius" },
+    { "id": 14, "name": "Nissan GT-R", "location": "Yokohama, Japan", "rating": 4.9, "price": "$100,000", "image": "https://source.unsplash.com/400x300/?nissan-gtr" },
+    { "id": 15, "name": "Land Rover Range Rover", "location": "Solihull, UK", "rating": 4.8, "price": "$140,000", "image": "https://source.unsplash.com/400x300/?range-rover" },
+    { "id": 16, "name": "Jaguar F-Type", "location": "Coventry, UK", "rating": 4.9, "price": "$110,000", "image": "https://source.unsplash.com/400x300/?jaguar-ftype" },
+    { "id": 17, "name": "McLaren 720S", "location": "Woking, UK", "rating": 5.0, "price": "$300,000", "image": "https://source.unsplash.com/400x300/?mclaren-720s" },
+    { "id": 18, "name": "Bugatti Chiron", "location": "Molsheim, France", "rating": 5.0, "price": "$3,000,000", "image": "https://source.unsplash.com/400x300/?bugatti-chiron" },
+    { "id": 19, "name": "Rolls-Royce Phantom", "location": "Goodwood, UK", "rating": 5.0, "price": "$450,000", "image": "https://source.unsplash.com/400x300/?rolls-royce-phantom" },
+    { "id": 20, "name": "Bentley Continental GT", "location": "Crewe, UK", "rating": 4.9, "price": "$220,000", "image": "https://source.unsplash.com/400x300/?bentley-continental-gt" }
+]
